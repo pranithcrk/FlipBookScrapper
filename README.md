@@ -1,0 +1,7 @@
+# flipkart-books
+This project involves web scraping data from Flipkart's "Books" section using the BeautifulSoup library, extracting relevant information, and storing it in the form of a CSV file named "flipkart_books.csv." To ensure the data's quality and consistency, a separate Jupyter Notebook titled "Data Cleaning Flipkart Books.ipynb" is implemented to perform data cleaning tasks on the "flipkart_books.csv" dataset.
+
+Upon cleaning the data, a new CSV file named "flipkart_books_cleaned.csv" is generated, containing the refined and organized data. To gain insights from the cleaned dataset, an Exploratory Data Analysis (EDA) process is conducted in another Jupyter Notebook named "EDA Flipkart Books.ipynb." This notebook includes various data visualization techniques and statistical analysis to derive meaningful patterns and trends from the data.
+
+Finally, to further visualize and present the insights in an interactive and comprehensive manner, the project incorporates Tableau software. The outcome of the analysis is saved in a Tableau workbook file named "Flipkart Analysis.twbx," which contains dynamic visualizations and dashboards that allow users to interact with and explore the findings easily.
+visit this link to view the workbook https://public.tableau.com/app/profile/pranit.patil2122/viz/FlipkartBooksAnalysis/FlipkartBooksAnalysis#1
